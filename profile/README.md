@@ -1,5 +1,20 @@
 # UmmItOS
 
+<p align="center">
+  <a href="https://github.com/UmmItOS/UmmItOS/releases">
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/UmmItOS/UmmItOS?style=flat&logo=linux&logoColor=white&label=Version&color=7c3aed">
+  </a>
+  <a href="https://github.com/UmmItOS/UmmItOS/blob/main/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/License-GPL--3.0-7c3aed?style=flat">
+  </a>
+  <a href="https://www.archlinux.org/">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793d1?style=flat&logo=arch-linux&logoColor=white&label=Base">
+  </a>
+  <a href="https://hyprland.org/">
+    <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58e1ff?style=flat&logo=hyprland&logoColor=black&label=WM">
+  </a>
+</p>
+
 **A streamlined Arch Linux distribution built around the Hyprland dynamic window manager.**
 
 UmmItOS provides a fully automated setup script that transforms a fresh Arch Linux (or EndeavourOS) installation into a polished Hyprland environment with a curated software stack, hardware auto-detection, and sensible defaults.
