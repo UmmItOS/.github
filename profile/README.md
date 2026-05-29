@@ -35,7 +35,7 @@ curl -fsSL https://raw.githubusercontent.com/UmmItOS/UmmItOS/refs/heads/main/ins
 
 ## Documentation
 
-Full installation guides and configuration references are available at the [official documentation site](https://ummitos.pages.dev/).
+Full installation guides and configuration references are available at the [official documentation site](https://docs.ummit.dev/).
 
 ## License
 
