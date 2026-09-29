@@ -1,18 +1,10 @@
 # UmmItOS
 
 <p align="center">
-  <a href="https://github.com/UmmItOS/UmmItOS/releases">
-    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/UmmItOS/UmmItOS?style=for-the-badge&logo=linux&logoColor=white&label=Version&color=7c3aed">
-  </a>
-  <a href="https://github.com/UmmItOS/UmmItOS/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/License-GPL--3.0-7c3aed?style=for-the-badge">
-  </a>
-  <a href="https://www.archlinux.org/">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white&label=Base">
-  </a>
-  <a href="https://hyprland.org/">
-    <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58e1ff?style=for-the-badge&logo=hyprland&logoColor=black&label=WM">
-  </a>
+  <a href="https://github.com/UmmItOS/UmmItOS/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/UmmItOS/UmmItOS?style=for-the-badge&logo=linux&logoColor=white&label=Version&color=7c3aed"></a>
+  <a href="https://github.com/UmmItOS/UmmItOS/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-GPL--3.0-7c3aed?style=for-the-badge"></a>
+  <a href="https://www.archlinux.org/"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white&label=Base"></a>
+  <a href="https://hyprland.org/"><img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58e1ff?style=for-the-badge&logo=hyprland&logoColor=black&label=WM"></a>
 </p>
 
 **A streamlined Arch Linux distribution built around the Hyprland dynamic window manager.**
