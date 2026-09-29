@@ -17,19 +17,34 @@
 
 **A streamlined Arch Linux distribution built around the Hyprland dynamic window manager.**
 
-UmmItOS provides a fully automated setup script that transforms a fresh Arch Linux (or EndeavourOS) installation into a polished Hyprland environment with a curated software stack, hardware auto-detection, and sensible defaults.
+UmmItOS provides a fully automated setup script that transforms a fresh Arch Linux (or Arch-based, e.g. EndeavourOS) installation into a polished Hyprland environment with a curated software stack, hardware auto-detection, and sensible defaults.
+
+## Highlights
+
+- **Quickshell desktop shell**: a single QML shell provides the bar, notifications, launcher, clipboard, wallpaper picker, dashboard, lock screen, Alt+Tab overview, screenshots, screen recording, QR scanner, settings panel and weather widget.
+- **Lua Hyprland config**: `hyprland.lua`.
+- **Matching login screen**: greetd with a QML greeter.
+
+> **Requirements:** Arch Linux or an Arch-based distro, an AMD GPU (NVIDIA is not supported), and a normal user account (don't run as root).
 
 ## Quick Start
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/UmmItOS/UmmItOS/refs/heads/main/install.sh | bash
+bash <(curl -fsSL https://raw.githubusercontent.com/UmmItOS/UmmItOS/main/setup.sh)
+```
+
+Or clone it and run the menu yourself:
+
+```bash
+git clone --recursive https://github.com/UmmItOS/UmmItOS && cd UmmItOS && ./install-menu.sh
 ```
 
 ## Repositories
 
 | Repository | Description |
 |---|---|
-| [UmmItOS/UmmItOS](https://github.com/UmmItOS/UmmItOS) | Core installation scripts, dotfiles, and package lists |
+| [UmmItOS/UmmItOS](https://github.com/UmmItOS/UmmItOS) | Installer, dotfiles, and the Quickshell desktop shell |
+| [UmmItOS/wallpaper](https://github.com/UmmItOS/wallpaper) | Wallpapers bundled with UmmItOS |
 | [UmmItOS/www](https://github.com/UmmItOS/www) | Official documentation website |
 | [UmmItOS/.github](https://github.com/UmmItOS/.github) | Organization profile and community health files |
 
