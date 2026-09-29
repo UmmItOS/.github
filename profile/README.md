@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://github.com/UmmItOS/UmmItOS/releases">
-    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/UmmItOS/UmmItOS?style=flat-square&logo=linux&logoColor=white&label=Version&color=7c3aed">
+    <img alt="GitHub Release" src="https://img.shields.io/github/v/release/UmmItOS/UmmItOS?style=for-the-badge&logo=linux&logoColor=white&label=Version&color=7c3aed">
   </a>
   <a href="https://github.com/UmmItOS/UmmItOS/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/License-GPL--3.0-7c3aed?style=flat-square">
+    <img alt="License" src="https://img.shields.io/badge/License-GPL--3.0-7c3aed?style=for-the-badge">
   </a>
   <a href="https://www.archlinux.org/">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793d1?style=flat-square&logo=arch-linux&logoColor=white&label=Base">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white&label=Base">
   </a>
   <a href="https://hyprland.org/">
-    <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58e1ff?style=flat-square&logo=hyprland&logoColor=black&label=WM">
+    <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58e1ff?style=for-the-badge&logo=hyprland&logoColor=black&label=WM">
   </a>
 </p>
 
